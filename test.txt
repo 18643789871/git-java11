@@ -1,0 +1,6 @@
+hello1
+hello2
+
+select name from emp
+
+select deptno from dept
