@@ -18,6 +18,8 @@ public class Student {
 		int len=array.length;
 		
 	}
+	
+	System.out.println("你好1");
 
 
 }
